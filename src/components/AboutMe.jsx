@@ -29,6 +29,7 @@ export const AboutMe = () => {
                         Get in Touch
                     </a>
                     <a href="Maheen Resume.pdf" 
+                    target="_blank"
                     className="px-5 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300">
                         {" "}
                         Download Resume

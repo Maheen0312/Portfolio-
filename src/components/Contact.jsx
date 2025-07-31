@@ -166,7 +166,7 @@ export const ContactSection = () => {
                   <Github className="h-5 w-5 text-primary"/>
                 </a>
                 <a 
-                  href="#" 
+                  href="https://www.instagram.com/moonboy._.12/profilecard/?igsh=MTR5dTFpYTFnaHhxaw==" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-2 rounded-full bg-primary/10 hover:bg-primary/20 transition-colors"
@@ -203,7 +203,7 @@ export const ContactSection = () => {
                   required
                   disabled={isSubmitting}
                   className="w-full px-4 py-3 rounded-md border border-input bg-background focus:outline-none focus:ring-2 focus:ring-primary disabled:opacity-50 disabled:cursor-not-allowed" 
-                  placeholder="John Doe"
+                  placeholder="Your Name "
                 />
               </div>
 
